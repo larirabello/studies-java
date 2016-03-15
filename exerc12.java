@@ -14,19 +14,20 @@ public class HelloWorld {
     System.out.println("Insira outro numero: ");
     n2 = s.nextFloat();
 
-    if (x.equalsIgnoreCase("+")) {
+    //using the method below is better than this comparison case (x.equalsIgnoreCase("+"))
+    if ("+".equalsIgnoreCase(x)) {
       oper=n1+n2;
       System.out.println("A soma eh: "+oper);
     }
-    if (x.equalsIgnoreCase("-")) {
+    if ("-".equalsIgnoreCase(x)) {
       oper=n1-n2;
       System.out.println("A subtracao eh: "+oper);
     }
-    if (x.equalsIgnoreCase("*")) {
+    if ("*".equalsIgnoreCase(x)) {
       oper=n1*n2;
       System.out.println("A multiplicacao eh: "+oper);
     }
-    if (x.equalsIgnoreCase("/")) {
+    if ("/".equalsIgnoreCase(x)) {
       oper=n1/n2;
       System.out.println("A divisao eh: "+oper);
     }
