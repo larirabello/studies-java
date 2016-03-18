@@ -31,8 +31,7 @@ public class HelloWorld {
             oper=n1/n2;
             System.out.println("A divisao eh: "+oper);
             break;
-        case "abstruso":
-            System.out.println ("abstruse"); break;
+
         }
 
   }

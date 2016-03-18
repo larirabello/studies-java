@@ -6,7 +6,7 @@ public class HelloWorld {
     Scanner s = new Scanner(System.in);
     int n1=0, quad=0;
 
-    System.out.println("Digite o primeiro parametro do intervalo: ");
+    System.out.println("Digite o parametro do intervalo: ");
     n1 = s.nextInt();
 
 
