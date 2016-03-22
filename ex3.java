@@ -1,3 +1,5 @@
+/* Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares. */
+
 import java.util.Scanner;
 
 public class HelloWorld {

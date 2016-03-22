@@ -1,3 +1,5 @@
+/* Dada uma seqüência de números inteiros não-nulos, seguida por 0, imprimir seus quadrados. */
+
 import java.util.Scanner;
 
 public class HelloWorld {
