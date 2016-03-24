@@ -9,13 +9,10 @@ public class HelloWorld{
 		System.out.println("Insert an integer");
 		int valor = s.nextInt();
 
-		valor = --valor;
-		System.out.println("O antecessor eh "+ valor);
-		valor = valor+2;
-		System.out.println("O sucessor eh " + valor);
 
+		System.out.println("O antecessor eh "+(valor-1));
 
-
+		System.out.println("O sucessor eh "+(valor+1));
 
 	}
 }
