@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HelloWorld {
+public class exerc11 {
   public static void main(String[] args) {
     Scanner s = new Scanner(System.in);
     float v1, v2, v3, maior, menor, media = 0;

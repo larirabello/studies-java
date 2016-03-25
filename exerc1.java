@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HelloWorld{
+public class exerc1 {
 	public static void main(String[] args){
     System.out.println("Antecessor e Sucessor de um numero");
 		Scanner s = new Scanner(System.in);

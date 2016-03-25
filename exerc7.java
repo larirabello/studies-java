@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HelloWorld {
+public class exerc7 {
   public static void main(String[] args) {
     System.out.println("Calculo horario");
     Scanner s = new Scanner(System.in);

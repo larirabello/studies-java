@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class HelloWorld {
+public class ex3 {
   public static void main(String[] args) {
     System.out.println("Impar");
     Scanner s = new Scanner(System.in);

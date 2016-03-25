@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HelloWorld {
+public class exerc14 {
   public static void main(String[] args) {
     System.out.println("Poligonos");
     Scanner s = new Scanner(System.in);

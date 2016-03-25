@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HelloWorld {
+public class exerc3 {
   public static void main(String[] args) {
        float valor;
        System.out.println("Insira o valor do produto: ");

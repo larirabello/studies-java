@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HelloWorld {
+public class exerc18 {
   public static final float M = 700;
   public static void main(String[] args) {
     Scanner s = new Scanner(System.in);
